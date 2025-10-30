@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-<nav style="margin-bottom:1rem;">
-  <a href="{{ '/' | relative_url }}"><strong>Home</strong></a> ·
-  <a href="{{ '/publications.html' | relative_url }}">Publications</a>
-</nav>
 
 # Bio
 

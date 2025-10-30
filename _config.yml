@@ -1,9 +1,19 @@
-title: [Your Name's Website]
-email: your.email@umd.edu
-# ... other settings ...
+# Examples of key settings you will edit:
 
-# Define the navigation menu
-header_pages:
-  - publications.md
-  - teaching.md
-  - cv.md
+title: "Your Name"
+author: "Your Name"
+description: "Ph.D. Candidate in Quantitative Methodology"
+minimal_mistakes_skin: "air" # Controls the color scheme/style
+locale: "en-US"
+url: "https://yourusername.github.io"
+baseurl: "" # Leave this blank for a primary user page
+
+# Navigation links (Top Tabs)
+header:
+  - titles:
+      /
+    url: "/"
+  - titles:
+      Publications
+    url: "/publications/"
+# ... more pages defined here

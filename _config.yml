@@ -1,0 +1,50 @@
+# ------------------------------------------------------------------------------------------------------
+# Site Settings
+# ------------------------------------------------------------------------------------------------------
+title: "[Your Name's Academic Website]" # Used as the browser tab title and default header
+locale: "en-US"
+url: "https://[your-github-username].github.io" # Your base URL
+baseurl: "" # Keep this blank for a personal site: "/"
+
+# ------------------------------------------------------------------------------------------------------
+# Author Settings (appears in the sidebar/about page)
+# ------------------------------------------------------------------------------------------------------
+author:
+  name: "[Your Name]"
+  avatar: "/assets/images/profile-pic.jpg" # Make sure to add your photo here
+  bio: "Ph.D. Candidate in Quantitative Methodology: Measurement and Statistics at UMD."
+  location: "College Park, MD"
+  email: "[your.email@umd.edu]"
+  github: "[your-github-username]"
+  research_gate: "[Your-ResearchGate-ID]" # If applicable
+  google_scholar: "[Your-Google-Scholar-ID]" # If applicable
+  orcid: "[Your-ORCID-ID]" # If applicable
+  twitter: "[your-twitter-handle]" # If applicable
+
+# ------------------------------------------------------------------------------------------------------
+# Navigation Links (Top Bar)
+# ------------------------------------------------------------------------------------------------------
+header:
+  - titles: # Home button
+      /
+    url: "/"
+  - titles:
+      Publications
+    url: "/publications/"
+  - titles:
+      Code
+    url: "/code/"
+  - titles:
+      Teaching
+    url: "/teaching/"
+  - titles:
+      CV
+    url: "/cv/"
+
+# ------------------------------------------------------------------------------------------------------
+# Other essential settings (leave as is unless you know what you are doing)
+# ------------------------------------------------------------------------------------------------------
+minimal_mistakes_skin: "air" # A clean, minimalist skin
+include: ["_pages"]
+repository: "[your-github-username]/[your-github-username].github.io"
+# ... many more settings below this, use the template defaults ...

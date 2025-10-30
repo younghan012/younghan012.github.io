@@ -10,5 +10,4 @@ permalink: /publications.html
 </nav>
 
 # Publications
-
-- (Add your items here)
+- Add your entries here.

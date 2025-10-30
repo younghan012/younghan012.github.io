@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Publications
-permalink: /publications.html
 ---
 
 <nav style="margin-bottom:1rem;">

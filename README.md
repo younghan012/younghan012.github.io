@@ -1,3 +1,13 @@
+---
+layout: default
+title: Home
+---
+
+<nav style="margin-bottom:1rem;">
+  <a href="{{ '/' | relative_url }}"><strong>Home</strong></a> ·
+  <a href="{{ '/publications.html' | relative_url }}">Publications</a>
+</nav>
+
 # Bio
 
 # Education
@@ -11,7 +21,6 @@
 #### B.A. in Education / B.A. in Applied Statistics, 2017
 
 # Program of Research
-
 ### 1)
 ### 2)
 ### 3)

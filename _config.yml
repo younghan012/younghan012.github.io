@@ -1,4 +1,9 @@
-title: Youngjin Han
-description: Ph.D. Candidate
+title: [Your Name's Website]
+email: your.email@umd.edu
+# ... other settings ...
 
-theme: jekyll-theme-minimal
+# Define the navigation menu
+header_pages:
+  - publications.md
+  - teaching.md
+  - cv.md

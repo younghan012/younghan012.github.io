@@ -4,7 +4,11 @@ title: Publications
 permalink: /publications.html
 ---
 
+<nav style="margin-bottom:1rem;">
+  <a href="{{ '/' | relative_url }}">Home</a> ·
+  <a href="{{ '/publications.html' | relative_url }}"><strong>Publications</strong></a>
+</nav>
+
 # Publications
 
-- Han, Y., et al. (2025). *Title of Paper*. Journal Name.
-- Han, Y., et al. (2024). *Another Paper*. Conference Name.
+- (Add your items here)

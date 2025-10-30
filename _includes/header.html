@@ -1,0 +1,8 @@
+<nav>
+  {% assign current_page = page.url | split: '/' | last | split: '.' | first %}
+  <a href="{{ site.baseurl }}/">Home</a>
+  {% for path in site.header_pages %}
+    {% assign my_page = site.pages | where: "path", path | first %}
+    <a href="{{ site.baseurl }}{{ my_page.url }}">{{ my_page.title }}</a>
+  {% endfor %}
+</nav>

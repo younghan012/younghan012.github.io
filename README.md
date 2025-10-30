@@ -1,7 +1,4 @@
-# younghan012.github.io
+# Education
 
-## Education
-
-### University of Maryland 
-
+## University of Maryland 
 - Description

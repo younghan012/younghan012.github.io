@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Publications
+permalink: /publications/
 ---
 
-<nav style="margin-bottom:1rem;">
-  <a href="{{ '/' | relative_url }}">Home</a> ·
-  <a href="{{ '/publications.html' | relative_url }}"><strong>Publications</strong></a>
-</nav>
+# Publications & Presentations
 
-# Publications
-- Add your entries here.
+## Refereed Journal Articles
+* [Year]. **"Title of Paper 1."** *Journal Name*, Vol(Issue), pp. X-Y.
+
+## Conference Presentations
+* [Year]. **"Title of Presentation."** *Conference Name*, Location.
